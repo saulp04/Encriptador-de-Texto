@@ -6,10 +6,10 @@
 **SAÚL ENRIQUE PÉREZ PÉREZ**
 
 ### Ordenador:
-![image text](https://drive.google.com/file/d/1MDduEe49ddkQkN0AnRsG9rRUeNIiSx2T/view?usp=sharing)
+![image text](https://github.com/saulp04/saulp04.github.io/blob/main/imagenes/vistaEscritorio-Encriptador.jpg)
 
 ### Movil:
-![image text](https://drive.google.com/file/d/1jbJ8SsuWvaY5QzsxFHIO5PzwKBz4eF9_/view?usp=sharing)
+![image text](https://github.com/saulp04/saulp04.github.io/blob/main/imagenes/vistaCelular-Encriptador.jpg)
 
 ## Algoritmo de Encriptación
 - La letra "e" es convertida para "enter"
