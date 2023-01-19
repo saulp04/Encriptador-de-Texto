@@ -66,4 +66,7 @@ function copiar(){
     var textoRespuesta = document.getElementById("cajaRespuesta");
     textoRespuesta.select();
     document.execCommand('copy');
+    
+    //Limpiar Caja de Texto
+    document.getElementById("cajaTexto").value = "";
 }
