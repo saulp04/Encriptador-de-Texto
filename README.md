@@ -6,10 +6,10 @@
 **SAÚL ENRIQUE PÉREZ PÉREZ**
 
 ### Ordenador:
-![](https://drive.google.com/file/d/1MDduEe49ddkQkN0AnRsG9rRUeNIiSx2T/view?usp=sharing)
+![image text](https://drive.google.com/file/d/1MDduEe49ddkQkN0AnRsG9rRUeNIiSx2T/view?usp=sharing)
 
 ### Movil:
-![](https://drive.google.com/file/d/1jbJ8SsuWvaY5QzsxFHIO5PzwKBz4eF9_/view?usp=sharing)
+![image text](https://drive.google.com/file/d/1jbJ8SsuWvaY5QzsxFHIO5PzwKBz4eF9_/view?usp=sharing)
 
 ## Algoritmo de Encriptación
 - La letra "e" es convertida para "enter"
