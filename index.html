@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset='utf-8'>
+        <meta name="viewport" content="width=device-width">
+        <title>Encriptador de Texto</title>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+        <script type="text/javascript" src="script.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <img src="imagenes/Vector.png" alt="Logo de Alura">
+            </div>           
+        </header>
+        <main>
+            <div class="titulo">
+                <h1>Encriptador de Mensajes</h1>
+            </div>
+            <section class="principal">
+                <div class="izq">
+                    <textarea name="cajaTexto" id="cajaTexto" cols="80" rows="7" class="input-padron" placeholder="Ingrese el texto aquí"></textarea>
+                    <div class="botonesEncriptador">
+                        <p class="advertencia">&#9888; Solo minúsculas y sin acentos</p>
+                        <button type="button" id="encriptar" onclick="encriptar()">Encriptar</button>
+                        <button type="button" id="desencriptar" onclick="desencriptar()">Desencriptar</button>
+                    </div>
+                </div>
+                <div class="der" id="der">
+                    <!-- Código para Mostrar la información codificada
+                    <textarea name="cajaRespuesta" id="cajaRespuesta" cols="18" rows="20"></textarea>
+                    <button type="button" id="copiar" onclick="copiar()">Copiar</button>
+                    -->
+                    <img src="imagenes/Muñeco.png" alt="Buscando Respuesta" class="imagen">
+                    <h1 class="mensaje">Ningún mensaje fue encontrado</h1>
+                    <p>Ingresa el texto que desees encriptar o desencriptar</p>
+                </div>    
+            </section>
+            
+        </main>
+        
+    </body>
+</html>
